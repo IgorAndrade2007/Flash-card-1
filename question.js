@@ -1,23 +1,22 @@
 criaCartao(
     'Programação',
-    'O que é Lua?',
-    'Lua é uma linguagem de programação'
-)
+    'O que é moto?
+)moto é um veículo sobre duas rodas 
 
 criaCartao(
     'Geografia',
-    'Qual a capital da Finlândia?',
-    'A capital da Finlândia é Helsinque'
+    'Qual a capital do brasil?',
+    'A capital do Brasil é Brasília 
 )
 
 criaCartao(
     'Culinária',
-    'Quais são os pratos típicos da Itália?',
-    'Os pratos mais típicos da Itália são: Pizza,Ravioli, Spaghetti, Lasagna, Risotto e Arancino'
+    'Quais são os pratos típicos do Brasil?',
+    'Os pratos mais típicos da Brasil são, churrasco, pão de queijo, açaí e feijoada 
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz romã em Inglês?',
-    'Romã em ingles é pomegranate'
+    'Como se diz cartão em Inglês?',
+    'cartão em ingles é card
 )
