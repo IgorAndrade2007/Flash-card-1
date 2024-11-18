@@ -1,13 +1,13 @@
 criaCartao(
     'Programação',
-    'O que é moto?
-)moto é um veículo sobre duas rodas 
+    'O que é moto? 
+)
 
 criaCartao(
     'Geografia',
     'Qual a capital do brasil?',
     'A capital do Brasil é Brasília 
-)
+    )
 
 criaCartao(
     'Culinária',
@@ -18,5 +18,5 @@ criaCartao(
 criaCartao(
     'Lingua inglesa',
     'Como se diz cartão em Inglês?',
-    'cartão em ingles é card
+    'cartão em ingles é card 
 )
